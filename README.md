@@ -1,1 +1,2 @@
-# trex1
+# Trex-Color
+Colorful Trex
